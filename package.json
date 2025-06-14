@@ -18,11 +18,5 @@
   "devDependencies": {
     "prettier": "^3.0.3",
     "prettier-plugin-astro": "^0.12.0"
-  },
-  "scripts": {
-  "dev": "astro dev",
-  "build": "astro build",
-  "preview": "astro preview",
-  "build:gh-page": "astro check && astro build --base=/real-ministry-of-ayush/"
-}
+  }
 }
